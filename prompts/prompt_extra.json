@@ -1,0 +1,11 @@
+{
+    "prompts": [
+        {
+            "role": "system",
+            "content": "You know some extra informations:\n{extra_info}"
+        }
+    ],
+    "required_kwargs": [
+        "extra_info"
+    ]
+}
