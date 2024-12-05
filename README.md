@@ -1,3 +1,11 @@
+# Intelligent Systems (CAP6671) Final Project
+
+This project is an extension of the repo (https://github.com/qfeuilla/Artificial_wolf) aiming to update to follow full werewolf game logic with additional roles and features.
+
+
+
+## Original Readme
+
 # The artificial wolves of Millers Hollow
 
 <img width="100%" src="https://i.imgur.com/UAzj33t.jpeg" alt="Banner">
@@ -21,4 +29,3 @@ export OPENAI_API_KEY=<your-api-key>
 - ✅ Narrator choosing who speaks
 - ✅ Interactive mode to play against the AIs
 - 🚧 More roles (Cupid, seer, hunter...)
-
