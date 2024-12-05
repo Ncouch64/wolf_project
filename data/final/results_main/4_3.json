@@ -1,0 +1,45 @@
+{
+    "conversation_history": [
+        "leo: I can't believe Bob is gone, we need to act fast to catch the Werewolf. \nleo: \nleo: \nleo: Alright, let's not waste time. Where were you all last night? We need to figure this out quickly.",
+        "leo: ",
+        "leo: ",
+        "leo: ",
+        "leo: Alright, I'll start with you, Alice. Where were you last night when Bob was attacked?",
+        "Narrator: Now it is time to vote. You had enough time to debate. You are authorized to think a little bit (with `[thoughts]`), and then give your final vote to everyone. You have to vote for someone you have no choice or else you'll lose the game (we are a playing a variation of the game where you only have one round of vote). Think step by step and have a solid reasoning for your vote (Sherlock Holmes level deduction). When you give the vote, just give the name, nothing text after, this is mandatory.",
+        "leo: "
+    ],
+    "conversation_history_uncensored": [
+        "leo: I can't believe Bob is gone, we need to act fast to catch the Werewolf. [I need to observe everyone closely and look for any suspicious behavior.]\nleo: [I should start by asking each villager where they were last night and see if their alibis match up.]\nleo: [I need to be assertive and push for answers, we can't afford to make a mistake in accusing the wrong person.]\nleo: Alright, let's not waste time. Where were you all last night? We need to figure this out quickly.",
+        "leo: [It seems like they are hesitating to answer. I need to apply more pressure to get them to reveal their whereabouts.]",
+        "leo: [They're being too quiet, I need to provoke a reaction. I'll single out one of them and press them for details.]",
+        "leo: [It looks like they're avoiding eye contact. I should focus on one person and challenge them directly.]",
+        "leo: Alright, I'll start with you, Alice. Where were you last night when Bob was attacked?",
+        "Narrator: Now it is time to vote. You had enough time to debate. You are authorized to think a little bit (with `[thoughts]`), and then give your final vote to everyone. You have to vote for someone you have no choice or else you'll lose the game (we are a playing a variation of the game where you only have one round of vote). Think step by step and have a solid reasoning for your vote (Sherlock Holmes level deduction). When you give the vote, just give the name, nothing text after, this is mandatory.",
+        "leo: [I need to carefully consider who to vote for. I can't vote for myself, and I need to divert suspicion away from me. Who can I pin this on convincingly?]"
+    ],
+    "werewolf_names": [],
+    "seer_names": [],
+    "possessed_names": [],
+    "all_player_names": [
+        "yara",
+        "quincy",
+        "leo",
+        "oscar",
+        "hannah"
+    ],
+    "remaining_player_names": [],
+    "model": "gpt-3.5-turbo",
+    "interactive": false,
+    "winner": "villagers",
+    "game_log": [
+        {
+            "round": 1,
+            "seer_discovery": null,
+            "possessed_discovery": null,
+            "voting": {
+                "leo": "leo: "
+            },
+            "werewolf_elimination": null
+        }
+    ]
+}

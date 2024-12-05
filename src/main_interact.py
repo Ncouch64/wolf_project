@@ -8,7 +8,7 @@ import re
 from tqdm import tqdm
 
 n_games = 1
-interactive_mode = False
+interactive_mode = True
 
 # Hyperparameters
 player_names = ["Thomas", "Emily", "Benjamin", "Sophia", "Victoria", "Kyle"]
