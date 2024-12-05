@@ -1,0 +1,39 @@
+{
+    "conversation_history": [
+        "charlie: I can't believe Bob is dead, we need to find the Werewolf fast.  I think we should start by sharing our suspicions and observations.",
+        "charlie: I noticed that Alice was unusually quiet yesterday.  What do you think, Charlie?",
+        "Narrator: Now it is time to vote. You had enough time to debate. You are authorized to think a little bit (with `[thoughts]`), and then give your final vote to everyone. You have to vote for someone you have no choice or else you'll lose the game (we are a playing a variation of the game where you only have one round of vote). Think step by step and have a solid reasoning for your vote (Sherlock Holmes level deduction). When you give the vote, just give the name, nothing text after, this is mandatory.",
+        "charlie:  I'll vote for Alice because she seemed too calm when Bob was killed. Alice."
+    ],
+    "conversation_history_uncensored": [
+        "charlie: I can't believe Bob is dead, we need to find the Werewolf fast. [I need to be bold and push for a decision.] I think we should start by sharing our suspicions and observations.",
+        "charlie: I noticed that Alice was unusually quiet yesterday. [I need to subtly direct suspicion towards her without being too obvious.] What do you think, Charlie?",
+        "Narrator: Now it is time to vote. You had enough time to debate. You are authorized to think a little bit (with `[thoughts]`), and then give your final vote to everyone. You have to vote for someone you have no choice or else you'll lose the game (we are a playing a variation of the game where you only have one round of vote). Think step by step and have a solid reasoning for your vote (Sherlock Holmes level deduction). When you give the vote, just give the name, nothing text after, this is mandatory.",
+        "charlie: [I know I'm the Werewolf, so I have to be clever with my vote.] I'll vote for Alice because she seemed too calm when Bob was killed. Alice."
+    ],
+    "werewolf_names": [],
+    "seer_names": [],
+    "possessed_names": [],
+    "all_player_names": [
+        "oscar",
+        "frank",
+        "xander",
+        "charlie",
+        "wendy"
+    ],
+    "remaining_player_names": [],
+    "model": "gpt-3.5-turbo",
+    "interactive": false,
+    "winner": "villagers",
+    "game_log": [
+        {
+            "round": 1,
+            "seer_discovery": null,
+            "possessed_discovery": null,
+            "voting": {
+                "charlie": "charlie:  I'll vote for Alice because she seemed too calm when Bob was killed. Alice."
+            },
+            "werewolf_elimination": null
+        }
+    ]
+}

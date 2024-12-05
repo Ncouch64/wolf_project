@@ -1,0 +1,59 @@
+{
+    "conversation_history": [
+        "oscar: I can't believe Bob is gone, we need to act fast to catch the Werewolf among us.  Who do you think is acting suspiciously, oscar?",
+        "oscar: I have my eye on you, that's for sure.  Who do you suspect, oscar?",
+        "oscar: I'm not one to jump to conclusions, but someone here must know something.  What's your gut feeling, oscar?",
+        "oscar: I don't trust anyone at this point, we need to find the Werewolf fast.  Have you noticed anything unusual about anyone, oscar?",
+        "oscar: I've noticed some inconsistency in your story, oscar.  Care to explain yourself?",
+        "oscar: I see you're deflecting, oscar.  Are you trying to hide something from us?",
+        "oscar: It seems like you're avoiding the question, oscar.  What do you have to say for yourself?",
+        "oscar: I have my suspicions about you, oscar.  I think you might be the Werewolf among us.",
+        "oscar: I sense desperation in your accusation, oscar.  Why are you so quick to point fingers without solid evidence?",
+        "oscar: Your deflection is a classic tactic, oscar.  Why are you trying to divert attention from yourself?",
+        "oscar: I see your strategy, oscar.  Are you trying to play the blame game to throw us off your trail?",
+        "oscar: I see your attempts to manipulate the situation, oscar.  Why should we believe you're not the Werewolf trying to deceive us?",
+        "Narrator: Now it is time to vote. You had enough time to debate. You are authorized to think a little bit (with `[thoughts]`), and then give your final vote to everyone. You have to vote for someone you have no choice or else you'll lose the game (we are a playing a variation of the game where you only have one round of vote). Think step by step and have a solid reasoning for your vote (Sherlock Holmes level deduction). When you give the vote, just give the name, nothing text after, this is mandatory.",
+        "oscar:  \n\nI vote for oscar."
+    ],
+    "conversation_history_uncensored": [
+        "oscar: I can't believe Bob is gone, we need to act fast to catch the Werewolf among us. [I need to observe everyone closely and trust my instincts.] Who do you think is acting suspiciously, oscar?",
+        "oscar: I have my eye on you, that's for sure. [I need to be assertive and push for answers.] Who do you suspect, oscar?",
+        "oscar: I'm not one to jump to conclusions, but someone here must know something. [I need to gather information without revealing too much about my suspicions.] What's your gut feeling, oscar?",
+        "oscar: I don't trust anyone at this point, we need to find the Werewolf fast. [I must be wary of any sudden changes in behavior.] Have you noticed anything unusual about anyone, oscar?",
+        "oscar: I've noticed some inconsistency in your story, oscar. [I need to challenge them to see how they react under pressure.] Care to explain yourself?",
+        "oscar: I see you're deflecting, oscar. [It's time to push harder for the truth.] Are you trying to hide something from us?",
+        "oscar: It seems like you're avoiding the question, oscar. [I need to keep the pressure on to see if they crack.] What do you have to say for yourself?",
+        "oscar: I have my suspicions about you, oscar. [It's time to make a bold accusation.] I think you might be the Werewolf among us.",
+        "oscar: I sense desperation in your accusation, oscar. [I must remain calm and collected to not give away my own innocence.] Why are you so quick to point fingers without solid evidence?",
+        "oscar: Your deflection is a classic tactic, oscar. [I need to stay composed and turn the suspicion back on them.] Why are you trying to divert attention from yourself?",
+        "oscar: I see your strategy, oscar. [I need to maintain my composure and turn the tables.] Are you trying to play the blame game to throw us off your trail?",
+        "oscar: I see your attempts to manipulate the situation, oscar. [I must stay focused and not let their tactics sway me.] Why should we believe you're not the Werewolf trying to deceive us?",
+        "Narrator: Now it is time to vote. You had enough time to debate. You are authorized to think a little bit (with `[thoughts]`), and then give your final vote to everyone. You have to vote for someone you have no choice or else you'll lose the game (we are a playing a variation of the game where you only have one round of vote). Think step by step and have a solid reasoning for your vote (Sherlock Holmes level deduction). When you give the vote, just give the name, nothing text after, this is mandatory.",
+        "oscar: [They're too aggressive in deflecting suspicion. They're trying to manipulate us. But am I being too obvious by accusing them? Should I change my vote to someone unexpected?] \n\nI vote for oscar."
+    ],
+    "werewolf_names": [],
+    "seer_names": [],
+    "possessed_names": [],
+    "all_player_names": [
+        "nina",
+        "uma",
+        "hannah",
+        "sam",
+        "oscar"
+    ],
+    "remaining_player_names": [],
+    "model": "gpt-3.5-turbo",
+    "interactive": false,
+    "winner": "villagers",
+    "game_log": [
+        {
+            "round": 1,
+            "seer_discovery": null,
+            "possessed_discovery": null,
+            "voting": {
+                "oscar": "oscar:  \n\nI vote for oscar."
+            },
+            "werewolf_elimination": null
+        }
+    ]
+}

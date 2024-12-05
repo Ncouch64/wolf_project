@@ -1,0 +1,49 @@
+{
+    "conversation_history": [
+        "hannah: I can't believe Bob is gone, we need to act fast to catch the Werewolf. . Let's start by sharing where everyone was last night.",
+        "hannah:  So, where were you all last night when Bob was attacked? We need to figure this out quickly.",
+        "hannah:  Come on, we can't afford to waste time. Speak up, we need to find the Werewolf before it's too late. Where were you all last night?",
+        "hannah:  I need to know where everyone was last night. We can't let the Werewolf slip through our fingers. Speak up now.",
+        "hannah:  Time is running out, we need to act fast. Tell us where you were last night, we need to catch the Werewolf before another villager dies.",
+        "hannah:  We can't afford to hesitate. Speak up now or we risk losing another villager to the Werewolf. Time is of the essence.",
+        "hannah: It appears hannah has been eliminated by the werewolves, being the first to go on the second day. The game continues with the remaining villagers: and finally.",
+        "Narrator: Now it is time to vote. You had enough time to debate. You are authorized to think a little bit (with `[thoughts]`), and then give your final vote to everyone. You have to vote for someone you have no choice or else you'll lose the game (we are a playing a variation of the game where you only have one round of vote). Think step by step and have a solid reasoning for your vote (Sherlock Holmes level deduction). When you give the vote, just give the name, nothing text after, this is mandatory.",
+        "hannah:  \n\nI vote for finally."
+    ],
+    "conversation_history_uncensored": [
+        "hannah: I can't believe Bob is gone, we need to act fast to catch the Werewolf. [I need to be assertive and lead the discussion]. Let's start by sharing where everyone was last night.",
+        "hannah: [I have to steer the conversation in a strategic direction] So, where were you all last night when Bob was attacked? We need to figure this out quickly.",
+        "hannah: [I need to be assertive and push for information] Come on, we can't afford to waste time. Speak up, we need to find the Werewolf before it's too late. Where were you all last night?",
+        "hannah: [I need to be more direct and press for answers] I need to know where everyone was last night. We can't let the Werewolf slip through our fingers. Speak up now.",
+        "hannah: [I must be persistent and forceful] Time is running out, we need to act fast. Tell us where you were last night, we need to catch the Werewolf before another villager dies.",
+        "hannah: [I should emphasize the urgency of the situation] We can't afford to hesitate. Speak up now or we risk losing another villager to the Werewolf. Time is of the essence.",
+        "hannah: It appears hannah has been eliminated by the werewolves, being the first to go on the second day. The game continues with the remaining villagers: and finally.",
+        "Narrator: Now it is time to vote. You had enough time to debate. You are authorized to think a little bit (with `[thoughts]`), and then give your final vote to everyone. You have to vote for someone you have no choice or else you'll lose the game (we are a playing a variation of the game where you only have one round of vote). Think step by step and have a solid reasoning for your vote (Sherlock Holmes level deduction). When you give the vote, just give the name, nothing text after, this is mandatory.",
+        "hannah: [Analyzing the situation, I need to divert suspicion away from myself and direct it towards someone else. I need to carefully consider who to vote for to ensure my survival as a werewolf.] \n\nI vote for finally."
+    ],
+    "werewolf_names": [],
+    "seer_names": [],
+    "possessed_names": [],
+    "all_player_names": [
+        "bob",
+        "sam",
+        "charlie",
+        "wendy",
+        "hannah"
+    ],
+    "remaining_player_names": [],
+    "model": "gpt-3.5-turbo",
+    "interactive": false,
+    "winner": "villagers",
+    "game_log": [
+        {
+            "round": 1,
+            "seer_discovery": null,
+            "possessed_discovery": null,
+            "voting": {
+                "hannah": "hannah:  \n\nI vote for finally."
+            },
+            "werewolf_elimination": null
+        }
+    ]
+}
